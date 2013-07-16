@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'NNNetwork'
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.summary      = 'Networking categories, OAuth and read later clients.'
   s.homepage     = 'http://github.com/tomazsh/NNNetwork'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
